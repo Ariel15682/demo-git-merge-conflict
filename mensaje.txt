@@ -1,10 +1,10 @@
-hola mundo de fresa
+hola mundo de piruleta
 adios venus
 
 linea 1
 linea 2
 
 
-linea X
+linea 10
 linea Y
 
